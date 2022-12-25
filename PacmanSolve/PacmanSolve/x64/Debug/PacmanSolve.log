@@ -1,0 +1,6 @@
+﻿  PacmanSolve.cpp
+D:\cplusSolves\PacmanSolve\PacmanSolve\PacmanSolve.cpp(154,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\cplusSolves\PacmanSolve\PacmanSolve\PacmanSolve.cpp(155,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\cplusSolves\PacmanSolve\PacmanSolve\PacmanSolve.cpp(403,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\cplusSolves\PacmanSolve\PacmanSolve\PacmanSolve.cpp(403,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  PacmanSolve.vcxproj -> D:\cplusSolves\PacmanSolve\x64\Debug\PacmanSolve.exe
